@@ -1,0 +1,6 @@
+a b c d
+x=x+y
+y=y+2z
+x=3x+z
+z=y−z
+baadbc
